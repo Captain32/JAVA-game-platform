@@ -1,0 +1,5 @@
+background.jpg = 960 * 540
+minX = (960 - 512) / 2 = 224
+maxX = minX + 512 = 736
+minY = 40
+maxY = minY + 512 = 552

@@ -1,0 +1,4 @@
+bomb_empty_x.png  96
+bullet_x.png	  32
+e1_0.png plan_x.png 64
+map_x.png   256 
