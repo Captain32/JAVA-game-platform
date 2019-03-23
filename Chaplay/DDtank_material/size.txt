@@ -1,0 +1,7 @@
+day.jpg night.jpg  1024 * 600   cnt = 1
+explosionx.png  96 * 96		cnt = 25
+selx.png	32 * 32		cnt = 8
+bulletx.png	32 * 32		cnt = 16
+wall系列都是    32 * 32 
+
+角色部分一律 48 * 48
